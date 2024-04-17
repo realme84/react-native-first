@@ -4,8 +4,8 @@ import { StyleSheet, Text, View, Button } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.Text}>22MIS1007</Text>
-      <Button title="Palakurthi Koushik "> </Button>
+      <Text style={styles.Text}>22MIA1189</Text>
+      <Button title="Rasipogula Gnaneswar "> </Button>
       <StatusBar style="light" />
     </View>
   );
